@@ -17,6 +17,9 @@ Hello, this is the project about the most trending YouTube video pattern as we t
 Exploratory Data Analysis or EDA is the first and foremost of all tasks that a dataset goes through. EDA lets us understand the data and thus helping us to prepare it for the upcoming tasks. 
 
 **Import the datasets**
+
 **Identifying the Summary of the DataFrame**
+
 **Visualisations using PowerBI**
+
 **Answer the questions based on visualisations**
