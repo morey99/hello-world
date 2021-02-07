@@ -11,3 +11,12 @@ Hello, this is the project about the most trending YouTube video pattern as we t
 3. Is the category with high number of views can have high number of comments?
 4. Is the category with high number of views can have high number of dislikes?
 5. In average, is the category with high number of views can have high number of comments?
+
+
+# Explatory Data Analysis Steps and Examples
+Exploratory Data Analysis or EDA is the first and foremost of all tasks that a dataset goes through. EDA lets us understand the data and thus helping us to prepare it for the upcoming tasks. 
+
+## Import the datasets
+### Identifying the Summary of the DataFrame
+#### Visualisations using PowerBI
+##### Answer the questions based on visualisations
