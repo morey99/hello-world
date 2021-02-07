@@ -23,3 +23,10 @@ Exploratory Data Analysis or EDA is the first and foremost of all tasks that a d
 **3. Visualisations using PowerBI**
 
 **4. Answer the questions based on visualisations**
+
+
+# Data Preprocessing
+
+**1. Data Cleaning Through Excel**
+
+**2. Data Cleaning Through RapidMiner**
