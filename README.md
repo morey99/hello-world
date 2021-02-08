@@ -30,3 +30,11 @@ Exploratory Data Analysis or EDA is the first and foremost of all tasks that a d
 **1. Data Cleaning Through Excel**
 
 **2. Data Cleaning Through RapidMiner**
+
+
+
+# Steps in Developing the Descriptive Data Mining Solution
+
+**kMeans**
+1. Randomly select k centroids, where k is the number of cluster you chose. In our project, we have 3 cluster.
+2. Maximization step computes the mean of all the points for each cluster and sets the new centroid.
