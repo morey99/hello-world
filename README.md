@@ -27,9 +27,17 @@ Exploratory Data Analysis or EDA is the first and foremost of all tasks that a d
 
 # Data Preprocessing
 
-**1. Data Cleaning Through Excel**
+1. Data cleaning
+Remove outlier, replace missing values, smoothing noisy data & correcting inconsistent data. Select each attributes in the excel file that need to be cleaned. Click on Data at the above section and enter filter. Select the small box at the attributes and it will shows the list of data for each attributes. Tick the blanks data then click remove data to delete unwanted data in the specific attributes. Continue the process for the next attributes until the last attributes in the Excel file to ensure the next process is smooth and valid.
 
-**2. Data Cleaning Through RapidMiner**
+2. Data integration
+Since the data could be redundant and inconsistent, it would lead to poor accuracy and speed of the model. So, we performed on the attribute which identifies unique entities
+
+3. Data reduction
+Remove unimportant attributes since not all data in the datasets will be used.
+
+4. Data transformation
+Transforming the data into form appropriate for Data Modeling. Split dataset into two separate sets which is training set and test set for machine learning model into 70:30 ratio or any other test size.
 
 
 
