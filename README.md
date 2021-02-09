@@ -35,6 +35,27 @@ Exploratory Data Analysis or EDA is the first and foremost of all tasks that a d
 
 # Steps in Developing the Descriptive Data Mining Solution
 
-**kMeans**
+A descriptive model describes a system or other entity and its relationship to its environment. For my project, I choose clustering method as the method for the process and kMeans is the model of machine learning algorithm. Following are the steps in developing the descriptive data mining solution:
+
 1. Randomly select k centroids, where k is the number of cluster you chose. In our project, we have 3 cluster.
 2. Maximization step computes the mean of all the points for each cluster and sets the new centroid.
+
+
+
+# Steps in Developing the Predictive Data Mining Solution
+
+Predictive is the process by which information is extracted from existing datasets for determining patterns and predicting the forthcoming trends or outcomes. For this project, I choose classification method as the method for the process with three classifiers. 
+
+1. Import required libraries
+2. Import and upload file into Google Colab
+3. Load data and read file that has been imported.
+4. Divide given columns into two types of variables dependent (or target variable) and independent variable (or feature variables)
+5. Import required classifier 
+6. Print the accuracy of the model (Decision Tree and Random Forest)
+7. Record the result.
+
+# Conclusion 
+
+We provides the full results based on best trending, moderate trending and worst trending that mostly influenced from the views from each videos. The stakeholders can measure the performance of their marketing strategy through YouTube videos as we have provided the accurate metric based on the clusters in this project. 
+
+
